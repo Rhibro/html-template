@@ -35,9 +35,3 @@ if (triangleFive > triangleSix) {
 } else if (triangleSix > triangleFive) {
     console.log("Triangle Six is biggest!")
 }
-
-const dogs = ["tore", "clem", "doris"];
-console.log(dogs);
-
-
-console.log(dogs[dogs.length - 3]);
